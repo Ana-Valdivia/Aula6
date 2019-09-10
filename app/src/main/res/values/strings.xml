@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula6</string>
+    <string name="tela1">PROXIMA ACTIVITY</string>
+    <string name="proximaactivity">PROXIMA ACTIVITY</string>
+    <string name="tela2">TELA2</string>
+    <string name="voltar">VOLTAR</string>
+</resources>
